@@ -28,8 +28,7 @@ The general process is:
 - Submit your completed work in Canvas through the CodeGrade window.
 
 In this assignment, you'll learn the workflow that you will be using to complete
-your assignments and submit them using CodeGrade.
-
+your assignments and submit them using CodeGrade 
 ## Completing and Submitting Assignments
 
 <iframe width="640" height="480" src="https://www.youtube.com/embed/EqIGup3zb8A" title="Completing and Submitting Software Engineering Assignments" frameborder="0" allowfullscreen></iframe>
